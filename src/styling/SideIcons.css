@@ -1,0 +1,28 @@
+#sideBar {
+    width:35px;
+    height: 95vh;
+    border-style: solid;
+    border-color: #2B2B2B;
+    border-width: 0 1px 0 1px;
+    margin-left: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.sideiconstop {
+    display: flex;
+    flex-direction: column;
+    height: 33px;
+    padding-bottom:15px;
+}
+
+.sideiconsbottom {
+    display: flex;
+    flex-direction: column;
+    height: 33px;
+    padding-bottom:5px;
+    padding-top: 10px
+}
